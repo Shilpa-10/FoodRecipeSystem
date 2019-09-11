@@ -1,4 +1,4 @@
-package com.javabrains;
+package com.org.abn.recipe;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
